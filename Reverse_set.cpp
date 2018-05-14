@@ -23,3 +23,4 @@ cout<<myset.size()<<endl;
  }
  cout<<endl;
 }
+/* in set duplicate last element stay.Like..1 4 1 6 ans is 4 1 6*/
